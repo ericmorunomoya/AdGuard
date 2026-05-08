@@ -35,6 +35,14 @@ services:
 3. **Activación de Filtros**: Se han verificado las listas de bloqueo activas (AdGuard DNS filter).
 4. **Comprobación de Bloqueo**: Se ha realizado una consulta DNS al dominio `doubleclick.net` apuntando al servidor local, verificando que devuelve `0.0.0.0` (bloqueado).
 
+## Acceso al Entorno
+
+Para que el entorno funcione de forma inmediata, se han incluido los directorios de configuración. Una vez levantado el contenedor, se puede acceder con:
+
+- **URL**: `http://localhost:3000`
+- **Usuario**: `admin`
+- **Contraseña**: `Password123!`
+
 ## Capturas de Pantalla
 
 Las capturas se encuentran en la carpeta `/capturas`:
@@ -48,3 +56,5 @@ Las capturas se encuentran en la carpeta `/capturas`:
 - `03_registro_consultas_bloqueo.png`: Registro de consultas detallado con bloqueo verificado.
 
 ---
+**Eric Moruno Moya**
+Instituto El Calamot - 2026
