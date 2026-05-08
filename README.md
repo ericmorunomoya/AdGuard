@@ -39,8 +39,13 @@ services:
 
 Las capturas se encuentran en la carpeta `/capturas`:
 - `01_listas_bloqueo.png`: Listas de filtrado configuradas.
-- `02_dashboard.png`: Panel principal de estadísticas.
-- `03_registro_consultas_bloqueo.png`: Registro de consultas donde se ve el bloqueo de `doubleclick.net`.
+- **Panel de Control (Desglosado):**
+  - `02a_dashboard_resumen.png`: Resumen de consultas y bloqueos.
+  - `02b_dashboard_estadisticas.png`: Estadísticas generales de tráfico.
+  - `02c_dashboard_clientes.png`: Clientes con más peticiones.
+  - `02d_dashboard_dominios_consultados.png`: Dominios más solicitados.
+  - `02e_dashboard_dominios_bloqueados.png`: Dominios bloqueados por los filtros.
+- `03_registro_consultas_bloqueo.png`: Registro de consultas detallado con bloqueo verificado.
 
 ---
 **Eric Moruno Moya**
