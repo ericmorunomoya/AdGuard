@@ -43,6 +43,17 @@ Para que el entorno funcione de forma inmediata, se han incluido los directorios
 - **Usuario**: `admin`
 - **Contraseña**: `Password123!`
 
+## Cómo levantar el entorno (Paso a paso)
+
+1. **Clonar el repositorio** o descargar los archivos del proyecto.
+2. **Abrir una terminal** (PowerShell, CMD o Terminal de Linux) en la carpeta raíz del proyecto.
+3. **Ejecutar el comando**:
+   ```bash
+   docker-compose up -d
+   ```
+4. **Verificar** que el contenedor esté funcionando con `docker ps`.
+5. **Acceder** al panel web en `http://localhost:3000` usando las credenciales anteriores.
+
 ## Capturas de Pantalla
 
 Las capturas se encuentran en la carpeta `/capturas`:
