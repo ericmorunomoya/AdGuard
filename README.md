@@ -43,7 +43,8 @@ Las capturas se encuentran en la carpeta `/capturas`:
   - `02a_dashboard_resumen.png`: Resumen de consultas y bloqueos.
   - `02b_dashboard_estadisticas.png`: Estadísticas generales de tráfico.
   - `02c_dashboard_clientes.png`: Clientes con más peticiones.
-  - `02d_dashboard_dominios_consultados_Bloqueados.png`: Dominios más solicitados y bloqueados.
+  - `02d_dashboard_dominios_consultados_Bloqueados.png`: Dominios más solicitados.
+  - `02d_dashboard_bloqueados.png`: Dominios más bloqueados.
 - `03_registro_consultas_bloqueo.png`: Registro de consultas detallado con bloqueo verificado.
 
 ---
