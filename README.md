@@ -56,5 +56,3 @@ Las capturas se encuentran en la carpeta `/capturas`:
 - `03_registro_consultas_bloqueo.png`: Registro de consultas detallado con bloqueo verificado.
 
 ---
-**Eric Moruno Moya**
-Instituto El Calamot - 2026
